@@ -4,3 +4,4 @@ python-dotenv
 pinecone-client
 streamlit
 langchain-google-genai
+google-generativeai
