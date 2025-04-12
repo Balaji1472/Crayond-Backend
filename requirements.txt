@@ -2,4 +2,5 @@ fastapi
 uvicorn[standard]
 python-dotenv
 pinecone-client
-
+streamlit
+langchain-google-genai
