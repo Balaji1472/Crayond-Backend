@@ -1,7 +1,7 @@
 fastapi
 uvicorn[standard]
 python-dotenv
-pinecone-client
+pinecone
 streamlit
 langchain-google-genai
 google-generativeai
