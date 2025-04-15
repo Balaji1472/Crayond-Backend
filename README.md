@@ -34,8 +34,8 @@ startupbuddy-backend/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/startupbuddy-backend.git
-cd startupbuddy-backend
+git clone https://github.com/Balaji1472/Crayond-Backend.git
+cd Crayond-backend
 ```
 
 ### 2. Install Dependencies
